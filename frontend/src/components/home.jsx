@@ -59,7 +59,7 @@ const Home = () => {
     <>
       <Card>
         <CardBody>
-          <CardTitle tag="h1">Desde test</CardTitle>
+          <CardTitle tag="h1">Prueba commit desde Test</CardTitle>
           <ListGroup>
             {todos.map((todo) => {
               return (
